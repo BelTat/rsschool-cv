@@ -1,7 +1,15 @@
 
 # Tatsiana Bialiauskaya 
-! (D:\фото с телефона\DCIM\Camera\IMG_20211007_112014.jpg)
+![my photo](photo.jpg)
 
 ___________
 
+## Contact me
+Location: *Grodno, Belarys*
 
+Phone: *+375297827672*
+
+Email: *battle2112field@mail.ru*
+
+GitHub: *BelTat*
+____________
