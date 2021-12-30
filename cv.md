@@ -13,3 +13,15 @@ Email: *battle2112field@mail.ru*
 
 GitHub: *BelTat*
 ____________
+
+## About me
+
+
+I'm open-minded, hardworking engineer which have decided to take these unbelievable opportunity- to be a frontend developer. 
+
+Determined to be a frontend developer, i'm pretty sure critical thinking and quick learning skills, willingness to learn, ability to work under pressure, good sense of humour would help me on this long difficult journey.
+
+
+_____________
+
+  
