@@ -1,4 +1,3 @@
-
 # Tatsiana Bialiauskaya 
 ![my photo](photo.jpg)
 
@@ -46,13 +45,10 @@ end
 - Grodnograzhdanproekt, Science and Technology Information Engineer, 2005-Present
 - Gymnasium No. 10 of Grodno, schoolteacher, 1998-2002
 - National Institute for Higher Education, Faculty of Philosophy, Cultural Studies and Art, student, 2000-2002
-- Yanka Kupala State University of Grodno, Faculty of Belarusian Philology, student, 1993-1998 
+- Yanka Kupala State University of Grodno, Faculty of Belarusian Philology, student, 1993-1998
 
 
 ## Languages
 - Russian (Native)
 - English (Intermediate - B1, [IELTS](https://ieltsonlinetests.com/)) 
 - Polish (perfectly understand, well talk, a little read & wright)
-
-
-	
