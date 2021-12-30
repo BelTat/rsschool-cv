@@ -20,12 +20,12 @@ I'm pretty sure critical thinking and quick learning skills, willingness to lear
 _____________
 
 ## Skills
-Basic syntax of 
+**Basic syntax of** 
 - HTML
 - CSS
 - Markdown 
 
-Tools
+**Tools**
 - Visual Studio Code
 - GIT
 ______________
@@ -40,7 +40,7 @@ ______________
 
 ## Project example
 [rsschool-cv](https://github.com/BelTat/rsschool-cv.git)
-_______________
+______________
 ## Education & Work experience
 - Grodnograzhdanproekt, Science and Technology Information Engineer, 2005-Present
 - Gymnasium No. 10 of Grodno, schoolteacher, 1998-2002
