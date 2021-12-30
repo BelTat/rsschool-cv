@@ -31,11 +31,15 @@ Tools
 ______________
 
 ## Code example
-
+```
+def multiply(a,b)
+  a * b
+end
+```
 ______________
 
 ## Project example
-
+[rsschool-cv](https://github.com/BelTat/rsschool-cv.git)
 _______________
 ## Education & Work experience
 - Grodnograzhdanproekt, Science and Technology Information Engineer, 2005-Present
