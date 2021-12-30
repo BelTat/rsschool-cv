@@ -1,27 +1,22 @@
 
 # Tatsiana Bialiauskaya 
 ![my photo](photo.jpg)
+__________
 
-___________
+## Contact
+*Location:* Grodno, Belarys
 
-## Contact me
-Location: *Grodno, Belarys*
+*Phone:* +375297827672
 
-Phone: *+375297827672*
+*Email:* battle2112field@mail.ru
 
-Email: *battle2112field@mail.ru*
-
-GitHub: *BelTat*
+*GitHub:* BelTat
 ____________
 
 ## About me
+I'm open-minded, hardworking person which have decided to take these incredible opportunity- to be leaning to something new. 
 
-
-I'm open-minded, hardworking person which have decided to take these unbelievable opportunity- to be a frontend developer. 
-
-Determined to be a frontend developer, i'm pretty sure critical thinking and quick learning skills, willingness to learn, ability to work under pressure, good sense of humour would help me on this long difficult journey.
-
-
+I'm pretty sure critical thinking and quick learning skills, willingness to learn, ability to work under pressure, good sense of humour would help me on this long difficult journey.
 _____________
 
 ## Skills
@@ -33,7 +28,25 @@ Basic syntax of
 Tools
 - Visual Studio Code
 - GIT
+______________
+
+## Code example
 
 ______________
 
+## Project example
 
+_______________
+## Education & Work experience
+- Grodnograzhdanproekt, Science and Technology Information Engineer, 2005-Present
+- Gymnasium No. 10 of Grodno, schoolteacher, 1998-2002
+- National Institute for Higher Education, Faculty of Philosophy, Cultural Studies and Art, student, 2000-2002
+- Yanka Kupala State University of Grodno, Faculty of Belarusian Philology, student, 1993-1998 
+_______________
+
+## Languages
+- Russian (Native)
+- English (Intermediate - B1, [IELTS](https://ieltsonlinetests.com/)) 
+- Polish (perfectly understand, well talk, a little read & wright) 
+_____________
+	
