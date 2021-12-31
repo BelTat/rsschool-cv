@@ -21,14 +21,8 @@ I'm pretty sure critical thinking and quick learning skills, willingness to lear
 
 
 ## Skills
-**Basic syntax of** 
-- HTML5
-- CSS3
-- Markdown 
-
-**Tools**
-- Visual Studio Code
-- GIT
+- **Basic syntax of:** HTML5, CSS3, Markdown 
+- **Tools:** Visual Studio Code, GIT
 
 
 ## Courses
