@@ -1,1 +1,1 @@
-https://BelTat.github.io/rsschool-cv/cv
+https://BelTat.github.io/rsschool-cv/
