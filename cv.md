@@ -2,7 +2,7 @@
 ![my photo](photo.jpg)
 
 
-## Contact
+## Contacts
 *Location:* Grodno, Belarys
 
 *Phone:* +375297827672
@@ -10,6 +10,8 @@
 *Email:* battle2112field@mail.ru
 
 *GitHub:* BelTat
+
+*Discord:* Tatyana#7179
 
 
 ## About me
@@ -20,13 +22,17 @@ I'm pretty sure critical thinking and quick learning skills, willingness to lear
 
 ## Skills
 **Basic syntax of** 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Markdown 
 
 **Tools**
 - Visual Studio Code
 - GIT
+
+
+## Courses
+- Basic of Computer Science, IT-Academy
 
 
 ## Code example
@@ -49,6 +55,7 @@ end
 
 
 ## Languages
+- Belarusian (Native)
 - Russian (Native)
 - English (Intermediate - B1, [IELTS](https://ieltsonlinetests.com/)) 
 - Polish (perfectly understand, well talk, a little read & wright)
