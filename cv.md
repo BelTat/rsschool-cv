@@ -1,5 +1,5 @@
 # Tatsiana Bialiauskaya 
-![my photo](photo.jpg)
+![my photo](assets/img/photo.jpg)
 
 
 ## Contacts
