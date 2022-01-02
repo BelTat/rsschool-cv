@@ -27,6 +27,8 @@ I'm pretty sure critical thinking and quick learning skills, willingness to lear
 
 ## Courses
 - Basic of Computer Science, IT-Academy
+- Training courses on YouTube: HTML Basics, CSS3 Basics
+- RS School «JavaScript/Front-end. Stage 0» (in progress)
 
 
 ## Code example
@@ -51,5 +53,5 @@ end
 ## Languages
 - Belarusian (Native)
 - Russian (Native)
-- English (Intermediate - B1, [IELTS](https://ieltsonlinetests.com/)) 
+- English (Intermediate - B1, [IELTS](https://ieltsonlinetests.com/)), now studing English in language's school 
 - Polish (perfectly understand, well talk, a little read & wright)
