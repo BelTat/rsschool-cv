@@ -2,3 +2,39 @@
     font-family: Roboto;
     src: url("assets/fonts/Roboto-Medium.ttf");
 }
+* {
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(150, 146, 146);
+}
+.container {
+    display: flex;
+}
+.photo {
+    flex: 1;
+    background-color: rgb(117, 82, 82);
+}
+.introduction {
+    background-color: rgb(117, 82, 82);
+    flex-grow: 1;
+    font-size: 80px;
+}
+.nav {
+    background-color: rgb(117, 82, 82);
+    font-size: 50px;
+}
+.nav-list {
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+.nav-link {
+    padding: 20px;
+    line-height: 60px;
+}
