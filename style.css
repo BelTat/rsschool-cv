@@ -9,12 +9,15 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    justify-content: space-between;
     margin: 0;
     padding: 0;
     background-color: rgb(150, 146, 146);
 }
 .container {
     display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 .photo {
     flex: 1;
@@ -23,18 +26,33 @@ body {
 .introduction {
     background-color: rgb(117, 82, 82);
     flex-grow: 1;
-    font-size: 80px;
+    font-size: 60px;
 }
 .nav {
     background-color: rgb(117, 82, 82);
-    font-size: 50px;
 }
 .nav-list {
     justify-content: flex-end;
-    align-items: center;
+    align-items: normal;
     list-style: none;
 }
 .nav-link {
-    padding: 20px;
-    line-height: 60px;
+    padding: 0 20px;
+    line-height: 69px;
+    font-size: 40px;
+    color: rgb(150, 146, 146);
+    border-left: rgb(252, 18, 18);
+    cursor: pointer;
+    transition: 4s;
+}
+.section-item a {
+    color: rgb(230, 20, 107);
+    text-decoration: none;
+    transition: 2s;
+}
+.section-item a:hover {
+    color: rgb(150, 146, 146);
+}
+html {
+    scroll-behavior: smooth;
 }
