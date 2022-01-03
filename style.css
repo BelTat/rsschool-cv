@@ -41,17 +41,16 @@ body {
     line-height: 69px;
     font-size: 40px;
     color: rgb(150, 146, 146);
-    border-left: rgb(252, 18, 18);
     cursor: pointer;
     transition: 4s;
 }
-.section-item a {
-    color: rgb(230, 20, 107);
-    text-decoration: none;
-    transition: 2s;
-}
-.section-item a:hover {
+.nav-item a {
     color: rgb(150, 146, 146);
+    text-decoration: none;
+    transition: 1s;
+}
+.nav-item a:hover {
+    color: rgb(230, 20, 107);
 }
 html {
     scroll-behavior: smooth;
