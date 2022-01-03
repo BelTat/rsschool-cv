@@ -1,5 +1,5 @@
 @font-face {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     src: url("assets/fonts/Roboto-Medium.ttf");
 }
 * {
@@ -13,6 +13,16 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(150, 146, 146);
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+}
+.section-title {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 5px;
+    color: black;
 }
 .container {
     display: flex;
@@ -21,12 +31,13 @@ body {
 }
 .photo {
     flex: 1;
+    background-size: contain;
     background-color: rgb(117, 82, 82);
 }
 .introduction {
     background-color: rgb(117, 82, 82);
     flex-grow: 1;
-    font-size: 60px;
+    font-size: 40px;
 }
 .nav {
     background-color: rgb(117, 82, 82);
