@@ -8,7 +8,7 @@
 body {
     background-color: rgb(150, 146, 146);
     font-family: "Roboto", sans-serif;
-    font-size: 24px;
+    font-size: 35px;
     font-weight: normal;
     color: black;
 }
@@ -23,14 +23,13 @@ body {
 .container {
     display: flex;
     max-width: 1440px;
-    height: auto;
     margin: 0 auto;
 }
 .container {
     background-color: rgb(117, 82, 82);
 }
 .photo {
-    flex: 1;
+    display: flex;
     height: 610px;
 }
 .introduction {
@@ -46,7 +45,7 @@ body {
 .nav-link {
     padding: 0 20px;
     line-height: 69px;
-    font-size: 40px;
+    font-size: 38px;
     color: rgb(150, 146, 146);
     cursor: pointer;
     transition: 4s;
@@ -59,17 +58,33 @@ body {
 .nav-item a:hover {
     color: rgb(230, 20, 107);
 }
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
 .section-title {
     font-size: 40px;
     font-weight: 400;
     letter-spacing: 5px;
     color: black;
+    text-align: center;
 }
-.main-container {
-    display: flex;
-    flex-wrap: wrap;
+.text {
+    display: inline-block;
+    line-height: 2.5;
+    padding: 0 20px;
+    margin-top: 0px;
 }
-
+.list {
+    justify-content: flex-end;
+    list-style: none;
+    text-align: match-parent;
+    padding: 0 20px;
+    line-height: 69px;
+    font-size: 35px;
+    color: black;
+    text-decoration: none;
+}
 html {
     scroll-behavior: smooth;
 }
