@@ -46,17 +46,17 @@ body {
     padding: 0 20px;
     line-height: 69px;
     font-size: 38px;
-    color: rgb(150, 146, 146);
+    color: (150, 146, 146);
     cursor: pointer;
     transition: 4s;
 }
 .nav-item a {
-    color: rgb(150, 146, 146);
+    color: rgb(230, 20, 107);
     text-decoration: none;
     transition: 1s;
 }
 .nav-item a:hover {
-    color: rgb(230, 20, 107);
+    color: rgb(150, 146, 146);
 }
 .main-container {
     display: flex;
