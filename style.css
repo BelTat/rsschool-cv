@@ -1,112 +1,112 @@
 @font-face {
-    font-family: "Roboto", sans-serif;
-    src: url("assets/fonts/Roboto-Medium.ttf");
+  font-family: "Roboto", sans-serif;
+  src: url("assets/fonts/Roboto-Medium.ttf");
 }
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 body {
-    background-color: rgb(150, 146, 146);
-    font-family: "Roboto", sans-serif;
-    font-size: 35px;
-    font-weight: normal;
-    color: black;
+  background-color: rgb(150, 146, 146);
+  font-family: "Roboto", sans-serif;
+  font-size: 35px;
+  font-weight: normal;
+  color: black;
 }
 body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-    justify-content: space-between;
-    margin: 0 auto;
-    padding: 0;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 0;
 }
 .container {
-    display: flex;
-    max-width: 1440px;
-    margin: 0 auto;
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 .container {
-    background-color: rgb(117, 82, 82);
+  background-color: rgb(117, 82, 82);
 }
 .photo {
-    display: flex;
-    height: 610px;
+  display: flex;
+  height: 610px;
 }
 .introduction {
-    flex-grow: 1;
-    font-size: 40px;
-    padding-left: 8px;
+  flex-grow: 1;
+  font-size: 40px;
+  padding-left: 8px;
 }
 .nav-list {
-    justify-content: flex-end;
-    align-items: normal;
-    list-style: none;
+  justify-content: flex-end;
+  align-items: normal;
+  list-style: none;
 }
 .nav-link {
-    padding: 0 20px;
-    line-height: 69px;
-    font-size: 38px;
-    color: (150, 146, 146);
-    cursor: pointer;
-    transition: 4s;
+  padding: 0 20px;
+  line-height: 69px;
+  font-size: 38px;
+  color: (150, 146, 146);
+  cursor: pointer;
+  transition: 4s;
 }
 .nav-item a {
-    color: rgb(230, 20, 107);
-    text-decoration: none;
-    transition: 1s;
+  color: rgb(230, 20, 107);
+  text-decoration: none;
+  transition: 1s;
 }
 .nav-item a:hover {
-    color: rgb(150, 146, 146);
+  color: rgb(150, 146, 146);
 }
 .main-container {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 .section-title {
-    font-size: 40px;
-    font-weight: 400;
-    letter-spacing: 5px;
-    color: black;
-    text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 5px;
+  color: black;
+  text-align: center;
 }
 .text {
-    display: inline-block;
-    line-height: 2.5;
-    padding: 0 20px;
-    margin-top: 0px;
+  display: inline-block;
+  line-height: 2.5;
+  padding: 0 20px;
+  margin-top: 0px;
 }
 .list {
-    justify-content: flex-end;
-    list-style: none;
-    text-align: match-parent;
-    padding: 0 20px;
-    line-height: 69px;
-    font-size: 35px;
-    color: black;
-    text-decoration: none;
+  justify-content: flex-end;
+  list-style: none;
+  text-align: match-parent;
+  padding: 0 20px;
+  line-height: 69px;
+  font-size: 35px;
+  color: black;
+  text-decoration: none;
 }
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 .section {
-    width: 50%;
+  width: 50%;
 }
 @media (max-width: 768px) {
-    .section {
-        width: 100%;
-    }
+  .section {
+    width: 100%;
+  }
 }
 .g-h-image {
-    position: relative;
-    top: 12rem;
-    background-image: url(assets/png/GH_Logo.png);
-    background-color: rgb(117, 82, 82);
+  position: relative;
+  top: 12rem;
+  background-image: url(assets/png/GH_Logo.png);
+  background-color: rgb(117, 82, 82);
 }
 .logo-rss {
-    position: relative;
-    left: 55rem;
+  position: relative;
+  left: 55rem;
 }
 .date {
-    position: relative;
-    right: 16rem;
+  position: relative;
+  right: 16rem;
 }
