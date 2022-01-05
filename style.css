@@ -96,3 +96,17 @@ html {
         width: 100%;
     }
 }
+.g-h-image {
+    position: relative;
+    top: 12rem;
+    background-image: url(assets/png/GH_Logo.png);
+    background-color: rgb(117, 82, 82);
+}
+.logo-rss {
+    position: relative;
+    left: 55rem;
+}
+.date {
+    position: relative;
+    right: 16rem;
+}
