@@ -58,9 +58,11 @@ body {
 .nav-item a:hover {
   color: rgb(150, 146, 146);
 }
-.main-container {
+.main-container,
+.footer-container {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: row;
 }
 .section-title {
   font-size: 40px;
@@ -96,17 +98,14 @@ html {
     width: 100%;
   }
 }
-.g-h-image {
-  position: relative;
-  top: 12rem;
+.logo-rss,
+.g-h-image,
+.date {
+  flex: 1;
   background-image: url(assets/png/GH_Logo.png);
   background-color: rgb(117, 82, 82);
-}
-.logo-rss {
-  position: relative;
-  left: 55rem;
-}
-.date {
-  position: relative;
-  right: 16rem;
+  padding: 20px;
+  font-size: 70px;
+  color: rgb(230, 20, 107);
+  text-align: center;
 }
